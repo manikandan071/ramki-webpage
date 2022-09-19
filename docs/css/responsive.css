@@ -1,4 +1,14 @@
+@media (max-width: 1024px){
+    .manu-list{
+        padding-left: 170px;
+    }
+}
+
 @media (max-width: 991px){
+    .manu-list{
+        text-align: center;
+        padding: 0;
+    }
     .banner{
         position: relative;
         height: 600px;
@@ -82,7 +92,6 @@
         border-bottom-left-radius: 180px;
         border-top-left-radius: 180px;
         border-top-right-radius: 180px;
-        left: 12px;
         overflow: hidden;
     }
     .banner-img .inner-img img{
@@ -228,7 +237,6 @@
         display: flex;
         text-align: center;
         right: 0;
-        left: 8px;
         top: 65%;
         width: 100%;
         border: 13px solid red;

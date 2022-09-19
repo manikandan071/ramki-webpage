@@ -84,7 +84,7 @@
     font-weight: bold;
 }
 .manu-list{
-    padding-left: 250px;
+    padding-left: 200px;
 }
 .manu-list ul li{
     padding-left: 25px;
@@ -193,7 +193,7 @@
 .banner-contact{
     position: absolute;
     top: 50%;
-    right: 5px;
+    right: 6px;
     align-items: center;
     transform: translateY(-50%);
 }
