@@ -279,4 +279,12 @@
         text-align: center;
         font-size: 11px;
     }
+    .email-sec .wdh-50{
+        width: 100%;
+    }
+    .email-sec .wdh-50:first-child input{
+        width: 100%;
+        margin: 0 20px 15px 0;
+        padding: 3px 10px;
+    }
 }
