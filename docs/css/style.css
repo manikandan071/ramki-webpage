@@ -92,9 +92,10 @@
 .manu-list ul li a{
     font-size: 15px;
     font-weight: bold;
+    transition: all 0.5s ease;
 }
 .manu-list ul li a:hover{
-    color: black;
+    color: rgb(235, 28, 28);
 }
 
 /* ------------------navbar sec starts------------ */
@@ -497,6 +498,10 @@
     font-size: 17px;
     margin-right: 7px;
     color: rgb(91, 150, 218);
+    transition: all 0.5s ease;
+}
+.contact-sec a:hover{
+    color: rgb(46, 29, 194);
 }
 .email-sec{
     margin: 25px;
@@ -553,7 +558,12 @@ form{
     margin-top: 15px;
     font-size: 15px;
     padding: 6px 25px;
-    background: hsl(10deg 83% 52%);
+    background: rgb(230, 107, 82);
+    
+    color: #ffffff;
+}
+.email-sec .btn:hover{
+    background: hsl(10deg 83% 52%); 
     color: #ffffff;
 }
 .site-map{
@@ -574,8 +584,11 @@ footer{
     text-decoration: none;
     font-size: 13px;
     margin-right: 10px;
-    color: rgb(91, 150, 218);
-
+    color: rgb(89, 133, 184);
+    transition: all 0.5s ease;
+}
+.socialcontact a:hover{
+    color: rgb(46, 29, 194);
 }
 .copyright span{
     font-size: 12px;
