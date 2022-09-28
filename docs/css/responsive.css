@@ -11,14 +11,14 @@
     }
     .banner{
         position: relative;
-        height: 600px;
+        height: 530px;
     }
     .banner-sec{
         display: flex;
     }
     .banner-content{
         width: 43%;
-        padding: 180px 0 0 0;
+        padding: 130px 0 0 0;
         font-family: 'Raleway', sans-serif,'Open Sans', sans-serif;
     }
     .banner-content h4{
@@ -104,7 +104,7 @@
     .title{
         position: relative;
         align-items: center;
-        padding-top: 80px;
+        padding-top: 40px;
     }
     .title h2{  
         position: relative;
@@ -173,7 +173,7 @@
 
     .banner{
         position: relative;
-        height: 800px;
+        height: 670px;
     }
     .banner-sec{
         display: flex;
@@ -181,7 +181,7 @@
     }
     .banner-content{
         width: 100%;
-        padding: 60px 0 0 0;
+        padding: 10px 0 0 0;
         font-family: 'Raleway', sans-serif,'Open Sans', sans-serif;
     }
     .banner-content h4{
@@ -237,7 +237,7 @@
         display: flex;
         text-align: center;
         right: 0;
-        top: 65%;
+        top: 67%;
         width: 100%;
         border: 13px solid red;
         height: 350px;
@@ -263,7 +263,7 @@
     }
     .banner-contact{
         position: absolute;
-        top: 65%;
+        top: 67%;
         right: 8px;
         align-items: center;
         transform: translateY(-50%);
