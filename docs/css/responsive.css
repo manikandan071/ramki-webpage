@@ -173,11 +173,12 @@
 
     .banner{
         position: relative;
-        height: 670px;
+        height: 700px;
     }
     .banner-sec{
         display: flex;
         flex-wrap: wrap;
+        padding-top: 50px;
     }
     .banner-content{
         width: 100%;
@@ -237,7 +238,7 @@
         display: flex;
         text-align: center;
         right: 0;
-        top: 67%;
+        top: 70%;
         width: 100%;
         border: 13px solid red;
         height: 350px;
@@ -263,7 +264,7 @@
     }
     .banner-contact{
         position: absolute;
-        top: 67%;
+        top: 70%;
         right: 8px;
         align-items: center;
         transform: translateY(-50%);
